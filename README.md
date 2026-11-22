@@ -27,6 +27,8 @@ A Spring Boot backend service for an online school management system designed to
 - Java 25 or higher
 - Maven 3.6 or higher
 
+Ensure `JAVA_HOME` points to a Java 25 installation before building or running the application.
+
 ### Running the Application
 
 1. Clone the repository
