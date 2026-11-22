@@ -13,8 +13,8 @@ A Spring Boot backend service for an online school management system designed to
 
 ## Technology Stack
 
-- Java 21
-- Spring Boot 3.2.0
+- Java 25 (LTS)
+- Spring Boot 3.5.16
 - Spring Data JPA
 - H2 Database
 - Maven
@@ -24,7 +24,7 @@ A Spring Boot backend service for an online school management system designed to
 
 ### Prerequisites
 
-- Java 21 or higher
+- Java 25 or higher
 - Maven 3.6 or higher
 
 ### Running the Application
